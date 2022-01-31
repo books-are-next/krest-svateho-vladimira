@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Křest svatého Vladimíra</text>
+  </docTitle>
+  <docAuthor>
+    <text>Karel Havlíček Borovský</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>ZPĚV PRVÝ Perun a Vladimír</text>
+      </navLabel>
+      <content src="Text/krest_svateho_vladimira_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>ZPĚV DRUHÝ Hospodářství</text>
+      </navLabel>
+      <content src="Text/krest_svateho_vladimira_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>ZPĚV TŘETÍ Vojenský soud</text>
+      </navLabel>
+      <content src="Text/krest_svateho_vladimira_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>ZPĚV ČTVRTÝ Testament Perunův</text>
+      </navLabel>
+      <content src="Text/krest_svateho_vladimira_008.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>ZPĚV PÁTÝ Bezbožnost v Rusích</text>
+      </navLabel>
+      <content src="Text/krest_svateho_vladimira_009.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>ZPĚV ŠESTÝ Audience</text>
+      </navLabel>
+      <content src="Text/krest_svateho_vladimira_010.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>ZPĚV SEDMÝ Ministerská rada</text>
+      </navLabel>
+      <content src="Text/krest_svateho_vladimira_011.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>ZPĚV OSMÝ Kamarilla</text>
+      </navLabel>
+      <content src="Text/krest_svateho_vladimira_012.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>ZPĚV DEVÁTÝ Jezovitský marš</text>
+      </navLabel>
+      <content src="Text/krest_svateho_vladimira_013.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>ZPĚV DESÁTÝ Konkurs</text>
+      </navLabel>
+      <content src="Text/krest_svateho_vladimira_014.xhtml#_idParaDest-10"/>
+    </navPoint>
+  </navMap>
+</ncx>
