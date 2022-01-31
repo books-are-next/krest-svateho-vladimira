@@ -1,0 +1,328 @@
+{
+  "author": "Karel Havlíček Borovský",
+  "identifier": "borovsky-krest-svateho-vladimira-d6a841d",
+  "languagecode": "cs",
+  "modified": "2022-01-31T18:06:52.537Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Křest svatého Vladimíra",
+  "revision": "d6a841d",
+  "generatedAt": {
+    "date": "Mon Jan 31 2022 18:15:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1643652915968
+  },
+  "documents": [
+    {
+      "title": "Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "krest_svateho_vladimira_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "krest_svateho_vladimira_001.html",
+      "next": "krest_svateho_vladimira_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_003.html",
+      "words": 10,
+      "chars": 70,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "krest_svateho_vladimira_002.html",
+      "next": "krest_svateho_vladimira_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_004.html",
+      "words": 87,
+      "chars": 573,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "krest_svateho_vladimira_003.html",
+      "next": "krest_svateho_vladimira_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV PRVÝ Perun a Vladimír • Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_005.html",
+      "words": 527,
+      "chars": 2911,
+      "ideas": 138,
+      "role": "chapter",
+      "order": 4,
+      "prev": "krest_svateho_vladimira_004.html",
+      "next": "krest_svateho_vladimira_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV PRVÝ Perun a Vladimír",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV DRUHÝ Hospodářství • Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_006.html",
+      "words": 517,
+      "chars": 2788,
+      "ideas": 130,
+      "role": "chapter",
+      "order": 5,
+      "prev": "krest_svateho_vladimira_005.html",
+      "next": "krest_svateho_vladimira_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV DRUHÝ Hospodářství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV TŘETÍ Vojenský soud • Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_007.html",
+      "words": 357,
+      "chars": 2005,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 6,
+      "prev": "krest_svateho_vladimira_006.html",
+      "next": "krest_svateho_vladimira_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV TŘETÍ Vojenský soud",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV ČTVRTÝ Testament Perunův • Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_008.html",
+      "words": 283,
+      "chars": 1549,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 7,
+      "prev": "krest_svateho_vladimira_007.html",
+      "next": "krest_svateho_vladimira_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV ČTVRTÝ Testament Perunův",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV PÁTÝ Bezbožnost v Rusích • Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_009.html",
+      "words": 382,
+      "chars": 2144,
+      "ideas": 106,
+      "role": "chapter",
+      "order": 8,
+      "prev": "krest_svateho_vladimira_008.html",
+      "next": "krest_svateho_vladimira_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV PÁTÝ Bezbožnost v Rusích",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV ŠESTÝ Audience • Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_010.html",
+      "words": 301,
+      "chars": 1838,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 9,
+      "prev": "krest_svateho_vladimira_009.html",
+      "next": "krest_svateho_vladimira_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV ŠESTÝ Audience",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV SEDMÝ Ministerská rada • Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_011.html",
+      "words": 490,
+      "chars": 2777,
+      "ideas": 134,
+      "role": "chapter",
+      "order": 10,
+      "prev": "krest_svateho_vladimira_010.html",
+      "next": "krest_svateho_vladimira_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV SEDMÝ Ministerská rada",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV OSMÝ Kamarilla • Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_012.html",
+      "words": 397,
+      "chars": 2233,
+      "ideas": 107,
+      "role": "chapter",
+      "order": 11,
+      "prev": "krest_svateho_vladimira_011.html",
+      "next": "krest_svateho_vladimira_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV OSMÝ Kamarilla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV DEVÁTÝ Jezovitský marš • Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_013.html",
+      "words": 275,
+      "chars": 1431,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 12,
+      "prev": "krest_svateho_vladimira_012.html",
+      "next": "krest_svateho_vladimira_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV DEVÁTÝ Jezovitský marš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV DESÁTÝ Konkurs • Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_014.html",
+      "words": 198,
+      "chars": 1171,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 13,
+      "prev": "krest_svateho_vladimira_013.html",
+      "next": "krest_svateho_vladimira_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV DESÁTÝ Konkurs",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Křest svatého Vladimíra",
+      "file": "krest_svateho_vladimira_015.html",
+      "words": 51,
+      "chars": 354,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 14,
+      "prev": "krest_svateho_vladimira_014.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 3883,
+      "chars": 21898,
+      "ideas": 1022
+    },
+    "chapters": {
+      "words": 3875,
+      "chars": 21844,
+      "ideas": 1018
+    }
+  }
+}
