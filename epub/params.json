@@ -1,1 +1,357 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "title": "Křest svatého Vladimíra",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Karel Havlíček Borovský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-01-31T18:06:52.537Z",
+      "publisherShort": "mkp",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "MLP_uroven2_basne",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku_-12-0-",
+      "brAfter": "MLP_text_bez1radku_-0-12-\nMLP_verse_-0-12-",
+      "blockquote": "",
+      "figure": "",
+      "em": "MLP_znak_kurziva_11b\nMLP_verse_-I-_-0-0--",
+      "strong": "MLP_tiraz_autor_a_nazev\nMLP_tiraz_podnazev\n",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "krest_svateho_vladimira_001.md",
+            "xhtml": "krest_svateho_vladimira_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_002.md",
+            "xhtml": "krest_svateho_vladimira_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_003.md",
+            "xhtml": "krest_svateho_vladimira_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_004.md",
+            "xhtml": "krest_svateho_vladimira_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_005.md",
+            "xhtml": "krest_svateho_vladimira_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_006.md",
+            "xhtml": "krest_svateho_vladimira_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_007.md",
+            "xhtml": "krest_svateho_vladimira_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_008.md",
+            "xhtml": "krest_svateho_vladimira_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_009.md",
+            "xhtml": "krest_svateho_vladimira_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_010.md",
+            "xhtml": "krest_svateho_vladimira_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_011.md",
+            "xhtml": "krest_svateho_vladimira_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_012.md",
+            "xhtml": "krest_svateho_vladimira_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_013.md",
+            "xhtml": "krest_svateho_vladimira_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_014.md",
+            "xhtml": "krest_svateho_vladimira_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krest_svateho_vladimira_015.md",
+            "xhtml": "krest_svateho_vladimira_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Křest svatého Vladimíra",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Karel Havlíček Borovský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-01-31T18:06:52.537Z",
+      "publisherShort": "mkp",
+      "languageCode": "cs"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_001.md",
+        "xhtml": "krest_svateho_vladimira_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_002.md",
+        "xhtml": "krest_svateho_vladimira_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_003.md",
+        "xhtml": "krest_svateho_vladimira_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_004.md",
+        "xhtml": "krest_svateho_vladimira_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_005.md",
+        "xhtml": "krest_svateho_vladimira_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_006.md",
+        "xhtml": "krest_svateho_vladimira_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_007.md",
+        "xhtml": "krest_svateho_vladimira_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_008.md",
+        "xhtml": "krest_svateho_vladimira_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_009.md",
+        "xhtml": "krest_svateho_vladimira_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_010.md",
+        "xhtml": "krest_svateho_vladimira_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_011.md",
+        "xhtml": "krest_svateho_vladimira_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_012.md",
+        "xhtml": "krest_svateho_vladimira_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_013.md",
+        "xhtml": "krest_svateho_vladimira_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_014.md",
+        "xhtml": "krest_svateho_vladimira_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krest_svateho_vladimira_015.md",
+        "xhtml": "krest_svateho_vladimira_015.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image003.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image004.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/OBALKA01-0004622501.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_tiraz_podnazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_podnazev",
+      "MLP_uroven2_basne",
+      "MLP_verse_-0-12-",
+      "MLP_verse_-I-_-0-0--",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "krest-svateho-vladimira"
+    },
+    "generatedAt": 1643652412772
+  }
+}
