@@ -1,15 +1,15 @@
 {
   "author": "Karel Havlíček Borovský",
-  "identifier": "borovsky-krest-svateho-vladimira-d6a841d",
+  "identifier": "borovsky-krest-svateho-vladimira-7ca480e",
   "languagecode": "cs",
   "modified": "2022-01-31T18:06:52.537Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Křest svatého Vladimíra",
-  "revision": "d6a841d",
+  "revision": "7ca480e",
   "generatedAt": {
-    "date": "Mon Jan 31 2022 18:15:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1643652915968
+    "date": "Mon Jan 31 2022 18:24:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1643653482337
   },
   "documents": [
     {
@@ -41,46 +41,6 @@
       "role": "chapter",
       "order": 1,
       "prev": "krest_svateho_vladimira_001.html",
-      "next": "krest_svateho_vladimira_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Křest svatého Vladimíra",
-      "file": "krest_svateho_vladimira_003.html",
-      "words": 10,
-      "chars": 70,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "krest_svateho_vladimira_002.html",
-      "next": "krest_svateho_vladimira_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Křest svatého Vladimíra",
-      "file": "krest_svateho_vladimira_004.html",
-      "words": 87,
-      "chars": 573,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "krest_svateho_vladimira_003.html",
       "next": "krest_svateho_vladimira_005.html",
       "toc": [
         {
@@ -99,8 +59,8 @@
       "chars": 2911,
       "ideas": 138,
       "role": "chapter",
-      "order": 4,
-      "prev": "krest_svateho_vladimira_004.html",
+      "order": 2,
+      "prev": "krest_svateho_vladimira_002.html",
       "next": "krest_svateho_vladimira_006.html",
       "toc": [
         {
@@ -119,7 +79,7 @@
       "chars": 2788,
       "ideas": 130,
       "role": "chapter",
-      "order": 5,
+      "order": 3,
       "prev": "krest_svateho_vladimira_005.html",
       "next": "krest_svateho_vladimira_007.html",
       "toc": [
@@ -139,7 +99,7 @@
       "chars": 2005,
       "ideas": 98,
       "role": "chapter",
-      "order": 6,
+      "order": 4,
       "prev": "krest_svateho_vladimira_006.html",
       "next": "krest_svateho_vladimira_008.html",
       "toc": [
@@ -159,7 +119,7 @@
       "chars": 1549,
       "ideas": 74,
       "role": "chapter",
-      "order": 7,
+      "order": 5,
       "prev": "krest_svateho_vladimira_007.html",
       "next": "krest_svateho_vladimira_009.html",
       "toc": [
@@ -179,7 +139,7 @@
       "chars": 2144,
       "ideas": 106,
       "role": "chapter",
-      "order": 8,
+      "order": 6,
       "prev": "krest_svateho_vladimira_008.html",
       "next": "krest_svateho_vladimira_010.html",
       "toc": [
@@ -199,7 +159,7 @@
       "chars": 1838,
       "ideas": 90,
       "role": "chapter",
-      "order": 9,
+      "order": 7,
       "prev": "krest_svateho_vladimira_009.html",
       "next": "krest_svateho_vladimira_011.html",
       "toc": [
@@ -219,7 +179,7 @@
       "chars": 2777,
       "ideas": 134,
       "role": "chapter",
-      "order": 10,
+      "order": 8,
       "prev": "krest_svateho_vladimira_010.html",
       "next": "krest_svateho_vladimira_012.html",
       "toc": [
@@ -239,7 +199,7 @@
       "chars": 2233,
       "ideas": 107,
       "role": "chapter",
-      "order": 11,
+      "order": 9,
       "prev": "krest_svateho_vladimira_011.html",
       "next": "krest_svateho_vladimira_013.html",
       "toc": [
@@ -259,7 +219,7 @@
       "chars": 1431,
       "ideas": 60,
       "role": "chapter",
-      "order": 12,
+      "order": 10,
       "prev": "krest_svateho_vladimira_012.html",
       "next": "krest_svateho_vladimira_014.html",
       "toc": [
@@ -279,9 +239,9 @@
       "chars": 1171,
       "ideas": 58,
       "role": "chapter",
-      "order": 13,
+      "order": 11,
       "prev": "krest_svateho_vladimira_013.html",
-      "next": "krest_svateho_vladimira_015.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -293,20 +253,20 @@
       ]
     },
     {
-      "title": "Křest svatého Vladimíra",
-      "file": "krest_svateho_vladimira_015.html",
-      "words": 51,
-      "chars": 354,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 14,
+      "title": "Tiráž • Křest svatého Vladimíra",
+      "file": "colophon.html",
+      "words": 149,
+      "chars": 1002,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
       "prev": "krest_svateho_vladimira_014.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -320,9 +280,9 @@
       "ideas": 1022
     },
     "chapters": {
-      "words": 3875,
-      "chars": 21844,
-      "ideas": 1018
+      "words": 3727,
+      "chars": 20847,
+      "ideas": 995
     }
   }
 }

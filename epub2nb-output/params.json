@@ -32,6 +32,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "krest_svateho_vladimira_001.md",
@@ -39,7 +40,7 @@
             "id": 0,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -47,9 +48,9 @@
             "filename": "krest_svateho_vladimira_002.md",
             "xhtml": "krest_svateho_vladimira_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -57,9 +58,9 @@
             "filename": "krest_svateho_vladimira_003.md",
             "xhtml": "krest_svateho_vladimira_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -67,9 +68,9 @@
             "filename": "krest_svateho_vladimira_004.md",
             "xhtml": "krest_svateho_vladimira_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -81,7 +82,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV PRVÝ Perun a Vladimír"
           },
           {
             "filename": "krest_svateho_vladimira_006.md",
@@ -91,7 +93,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV DRUHÝ Hospodářství"
           },
           {
             "filename": "krest_svateho_vladimira_007.md",
@@ -101,7 +104,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV TŘETÍ Vojenský soud"
           },
           {
             "filename": "krest_svateho_vladimira_008.md",
@@ -111,7 +115,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV ČTVRTÝ Testament Perunův"
           },
           {
             "filename": "krest_svateho_vladimira_009.md",
@@ -121,7 +126,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV PÁTÝ Bezbožnost v Rusích"
           },
           {
             "filename": "krest_svateho_vladimira_010.md",
@@ -131,7 +137,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV ŠESTÝ Audience"
           },
           {
             "filename": "krest_svateho_vladimira_011.md",
@@ -141,7 +148,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV SEDMÝ Ministerská rada"
           },
           {
             "filename": "krest_svateho_vladimira_012.md",
@@ -151,7 +159,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV OSMÝ Kamarilla"
           },
           {
             "filename": "krest_svateho_vladimira_013.md",
@@ -161,7 +170,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV DEVÁTÝ Jezovitský marš"
           },
           {
             "filename": "krest_svateho_vladimira_014.md",
@@ -171,19 +181,27 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZPĚV DESÁTÝ Konkurs"
           },
           {
             "filename": "krest_svateho_vladimira_015.md",
             "xhtml": "krest_svateho_vladimira_015.xhtml",
             "id": 14,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           }
         ]
+      },
+      {
+        "isSection": true,
+        "inToc": true,
+        "id": "section-2",
+        "children": [],
+        "listType": "plain"
       }
     ]
   },
@@ -193,7 +211,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Karel Havlíček Borovský",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-31T18:14:24.191Z"
+      "modified": "2022-01-31T18:23:52.329Z"
     },
     "chapters": [
       {
@@ -350,6 +368,6 @@
       "user": "books-are-next",
       "repo": "krest-svateho-vladimira"
     },
-    "generatedAt": 1643652864446
+    "generatedAt": 1643653432631
   }
 }

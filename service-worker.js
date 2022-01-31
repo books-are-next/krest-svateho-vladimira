@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-d6a841d';
+const CACHE = 'cache-7ca480e';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./krest_svateho_vladimira_001.html","./krest_svateho_vladimira_002.html","./krest_svateho_vladimira_003.html","./krest_svateho_vladimira_004.html","./krest_svateho_vladimira_005.html","./krest_svateho_vladimira_006.html","./krest_svateho_vladimira_007.html","./krest_svateho_vladimira_008.html","./krest_svateho_vladimira_009.html","./krest_svateho_vladimira_010.html","./krest_svateho_vladimira_011.html","./krest_svateho_vladimira_012.html","./krest_svateho_vladimira_013.html","./krest_svateho_vladimira_014.html","./krest_svateho_vladimira_015.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image003.jpg","./resources/image001.jpg","./resources/image004.jpg","./resources/obalka01-0004622501.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./krest_svateho_vladimira_001.html","./krest_svateho_vladimira_002.html","./krest_svateho_vladimira_005.html","./krest_svateho_vladimira_006.html","./krest_svateho_vladimira_007.html","./krest_svateho_vladimira_008.html","./krest_svateho_vladimira_009.html","./krest_svateho_vladimira_010.html","./krest_svateho_vladimira_011.html","./krest_svateho_vladimira_012.html","./krest_svateho_vladimira_013.html","./krest_svateho_vladimira_014.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka01-0004622501.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./template-images/circles.png","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {
