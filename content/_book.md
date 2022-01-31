@@ -13,8 +13,6 @@ meta:
 readingOrder:
   - krest_svateho_vladimira_001.html
   - krest_svateho_vladimira_002.html
-  - krest_svateho_vladimira_003.html
-  - krest_svateho_vladimira_004.html
   - krest_svateho_vladimira_005.html
   - krest_svateho_vladimira_006.html
   - krest_svateho_vladimira_007.html
@@ -25,11 +23,42 @@ readingOrder:
   - krest_svateho_vladimira_012.html
   - krest_svateho_vladimira_013.html
   - krest_svateho_vladimira_014.html
-  - krest_svateho_vladimira_015.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: krest_svateho_vladimira_005.html
+        title: "ZPĚV PRVÝ Perun a\_Vladimír"
+        hiddenTitle: false
+      - link: krest_svateho_vladimira_006.html
+        title: ZPĚV DRUHÝ Hospodářství
+        hiddenTitle: false
+      - link: krest_svateho_vladimira_007.html
+        title: ZPĚV TŘETÍ Vojenský soud
+        hiddenTitle: false
+      - link: krest_svateho_vladimira_008.html
+        title: ZPĚV ČTVRTÝ Testament Perunův
+        hiddenTitle: false
+      - link: krest_svateho_vladimira_009.html
+        title: "ZPĚV PÁTÝ Bezbožnost v\_Rusích"
+        hiddenTitle: false
+      - link: krest_svateho_vladimira_010.html
+        title: ZPĚV ŠESTÝ Audience
+        hiddenTitle: false
+      - link: krest_svateho_vladimira_011.html
+        title: ZPĚV SEDMÝ Ministerská rada
+        hiddenTitle: false
+      - link: krest_svateho_vladimira_012.html
+        title: ZPĚV OSMÝ Kamarilla
+        hiddenTitle: false
+      - link: krest_svateho_vladimira_013.html
+        title: ZPĚV DEVÁTÝ Jezovitský marš
+        hiddenTitle: false
+      - link: krest_svateho_vladimira_014.html
+        title: ZPĚV DESÁTÝ Konkurs
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
