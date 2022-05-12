@@ -1,5 +1,6 @@
 ---
 title: ZPĚV TŘETÍ Vojenský soud
+contentType: prose
 ---
 
 Bože! kýž jsem policajtem!  

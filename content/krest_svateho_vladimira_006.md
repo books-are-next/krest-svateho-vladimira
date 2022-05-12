@@ -1,5 +1,6 @@
 ---
 title: ZPĚV DRUHÝ Hospodářství
+contentType: prose
 ---
 
 Jedna hora vysoká je  

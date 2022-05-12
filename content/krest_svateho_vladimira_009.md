@@ -1,5 +1,6 @@
 ---
 title: "ZPĚV PÁTÝ Bezbožnost v\_Rusích"
+contentType: prose
 ---
 
 Tak se z maličké příčiny  

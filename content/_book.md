@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Křest svatého Vladimíra
@@ -12,7 +13,7 @@ meta:
   languageCode: cs
 readingOrder:
   - krest_svateho_vladimira_001.html
-  - krest_svateho_vladimira_002.html
+  - promo.html
   - krest_svateho_vladimira_005.html
   - krest_svateho_vladimira_006.html
   - krest_svateho_vladimira_007.html

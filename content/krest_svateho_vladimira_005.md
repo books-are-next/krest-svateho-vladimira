@@ -1,5 +1,6 @@
 ---
 title: "ZPĚV PRVÝ Perun a\_Vladimír"
+contentType: prose
 ---
 
 Vladimír car na svůj svátek,  
