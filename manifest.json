@@ -1,15 +1,32 @@
 {
-  "author": "Karel Havlíček Borovský",
-  "identifier": "borovsky-krest-svateho-vladimira-7ca480e",
-  "languagecode": "cs",
-  "modified": "2022-01-31T18:06:52.537Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Křest svatého Vladimíra",
-  "revision": "7ca480e",
+  "author": "Karel Havlíček Borovský",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "borovsky-krest-svateho-vladimira-cebcd3a",
+  "revision": "cebcd3a",
+  "readingOrder": [
+    "krest_svateho_vladimira_001.html",
+    "promo.html",
+    "krest_svateho_vladimira_005.html",
+    "krest_svateho_vladimira_006.html",
+    "krest_svateho_vladimira_007.html",
+    "krest_svateho_vladimira_008.html",
+    "krest_svateho_vladimira_009.html",
+    "krest_svateho_vladimira_010.html",
+    "krest_svateho_vladimira_011.html",
+    "krest_svateho_vladimira_012.html",
+    "krest_svateho_vladimira_013.html",
+    "krest_svateho_vladimira_014.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Jan 31 2022 18:24:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1643653482337
+    "date": "Thu May 12 2022 10:38:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351925143
   },
   "documents": [
     {
@@ -21,7 +38,7 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "krest_svateho_vladimira_002.html",
+      "next": "promo.html",
       "toc": [
         {
           "index": 0,
@@ -33,8 +50,8 @@
       ]
     },
     {
-      "title": "Křest svatého Vladimíra",
-      "file": "krest_svateho_vladimira_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -42,25 +59,17 @@
       "order": 1,
       "prev": "krest_svateho_vladimira_001.html",
       "next": "krest_svateho_vladimira_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "ZPĚV PRVÝ Perun a Vladimír • Křest svatého Vladimíra",
+      "title": "ZPĚV PRVÝ Perun a Vladimír",
       "file": "krest_svateho_vladimira_005.html",
       "words": 527,
       "chars": 2911,
       "ideas": 138,
       "role": "chapter",
       "order": 2,
-      "prev": "krest_svateho_vladimira_002.html",
+      "prev": "promo.html",
       "next": "krest_svateho_vladimira_006.html",
       "toc": [
         {
@@ -73,7 +82,7 @@
       ]
     },
     {
-      "title": "ZPĚV DRUHÝ Hospodářství • Křest svatého Vladimíra",
+      "title": "ZPĚV DRUHÝ Hospodářství",
       "file": "krest_svateho_vladimira_006.html",
       "words": 517,
       "chars": 2788,
@@ -93,7 +102,7 @@
       ]
     },
     {
-      "title": "ZPĚV TŘETÍ Vojenský soud • Křest svatého Vladimíra",
+      "title": "ZPĚV TŘETÍ Vojenský soud",
       "file": "krest_svateho_vladimira_007.html",
       "words": 357,
       "chars": 2005,
@@ -113,7 +122,7 @@
       ]
     },
     {
-      "title": "ZPĚV ČTVRTÝ Testament Perunův • Křest svatého Vladimíra",
+      "title": "ZPĚV ČTVRTÝ Testament Perunův",
       "file": "krest_svateho_vladimira_008.html",
       "words": 283,
       "chars": 1549,
@@ -133,7 +142,7 @@
       ]
     },
     {
-      "title": "ZPĚV PÁTÝ Bezbožnost v Rusích • Křest svatého Vladimíra",
+      "title": "ZPĚV PÁTÝ Bezbožnost v Rusích",
       "file": "krest_svateho_vladimira_009.html",
       "words": 382,
       "chars": 2144,
@@ -153,7 +162,7 @@
       ]
     },
     {
-      "title": "ZPĚV ŠESTÝ Audience • Křest svatého Vladimíra",
+      "title": "ZPĚV ŠESTÝ Audience",
       "file": "krest_svateho_vladimira_010.html",
       "words": 301,
       "chars": 1838,
@@ -173,7 +182,7 @@
       ]
     },
     {
-      "title": "ZPĚV SEDMÝ Ministerská rada • Křest svatého Vladimíra",
+      "title": "ZPĚV SEDMÝ Ministerská rada",
       "file": "krest_svateho_vladimira_011.html",
       "words": 490,
       "chars": 2777,
@@ -193,7 +202,7 @@
       ]
     },
     {
-      "title": "ZPĚV OSMÝ Kamarilla • Křest svatého Vladimíra",
+      "title": "ZPĚV OSMÝ Kamarilla",
       "file": "krest_svateho_vladimira_012.html",
       "words": 397,
       "chars": 2233,
@@ -213,7 +222,7 @@
       ]
     },
     {
-      "title": "ZPĚV DEVÁTÝ Jezovitský marš • Křest svatého Vladimíra",
+      "title": "ZPĚV DEVÁTÝ Jezovitský marš",
       "file": "krest_svateho_vladimira_013.html",
       "words": 275,
       "chars": 1431,
@@ -233,7 +242,7 @@
       ]
     },
     {
-      "title": "ZPĚV DESÁTÝ Konkurs • Křest svatého Vladimíra",
+      "title": "ZPĚV DESÁTÝ Konkurs",
       "file": "krest_svateho_vladimira_014.html",
       "words": 198,
       "chars": 1171,
@@ -253,11 +262,11 @@
       ]
     },
     {
-      "title": "Tiráž • Křest svatého Vladimíra",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 149,
-      "chars": 1002,
-      "ideas": 24,
+      "words": 125,
+      "chars": 822,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "krest_svateho_vladimira_014.html",
@@ -275,9 +284,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3883,
-      "chars": 21898,
-      "ideas": 1022
+      "words": 3859,
+      "chars": 21718,
+      "ideas": 1016
     },
     "chapters": {
       "words": 3727,

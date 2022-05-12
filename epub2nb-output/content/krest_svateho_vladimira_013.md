@@ -1,5 +1,6 @@
 ---
 title: ZPĚV DEVÁTÝ Jezovitský marš
+contentType: prose
 ---
 
 Te Deum laudamus —  

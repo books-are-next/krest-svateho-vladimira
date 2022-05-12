@@ -1,5 +1,6 @@
 ---
 title: ZPĚV ŠESTÝ Audience
+contentType: prose
 ---
 
 Seděl Vladimír na trůnu  

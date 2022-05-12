@@ -1,5 +1,6 @@
 ---
 title: ZPĚV OSMÝ Kamarilla
+contentType: prose
 ---
 
 Jako u všech potentátů,  

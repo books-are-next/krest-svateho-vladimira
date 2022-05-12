@@ -1,5 +1,6 @@
 ---
 title: ZPĚV DESÁTÝ Konkurs
+contentType: prose
 ---
 
 Věje vítr černomořský,  

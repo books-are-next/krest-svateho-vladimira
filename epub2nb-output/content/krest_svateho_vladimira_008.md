@@ -1,5 +1,6 @@
 ---
 title: ZPĚV ČTVRTÝ Testament Perunův
+contentType: prose
 ---
 
 Poslyšte, milí křesťané,  

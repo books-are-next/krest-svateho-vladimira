@@ -1,5 +1,6 @@
 ---
 title: ZPĚV SEDMÝ Ministerská rada
+contentType: prose
 ---
 
 Večír ministři seděli  
