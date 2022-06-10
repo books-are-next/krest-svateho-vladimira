@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-krest-svateho-vladimira-cebcd3a",
-  "revision": "cebcd3a",
+  "identifier": "borovsky-krest-svateho-vladimira-77321c9",
+  "revision": "77321c9",
   "readingOrder": [
     "krest_svateho_vladimira_001.html",
     "promo.html",
@@ -25,16 +25,16 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:38:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351925143
+    "date": "Fri Jun 10 2022 17:52:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883568060
   },
   "documents": [
     {
       "title": "Křest svatého Vladimíra",
       "file": "krest_svateho_vladimira_001.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 0,
       "prev": null,
@@ -264,9 +264,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 125,
-      "chars": 822,
-      "ideas": 18,
+      "words": 82,
+      "chars": 554,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "krest_svateho_vladimira_014.html",
@@ -284,14 +284,14 @@
   ],
   "totals": {
     "all": {
-      "words": 3859,
-      "chars": 21718,
-      "ideas": 1016
+      "words": 3817,
+      "chars": 21450,
+      "ideas": 1006
     },
     "chapters": {
-      "words": 3727,
+      "words": 3728,
       "chars": 20847,
-      "ideas": 995
+      "ideas": 996
     }
   }
 }
