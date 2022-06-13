@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-0cfc01f';
+const CACHE = 'cache-d9396d1';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./krest_svateho_vladimira_001.html","./krest_svateho_vladimira_005.html","./krest_svateho_vladimira_006.html","./krest_svateho_vladimira_007.html","./krest_svateho_vladimira_008.html","./krest_svateho_vladimira_009.html","./krest_svateho_vladimira_010.html","./krest_svateho_vladimira_011.html","./krest_svateho_vladimira_012.html","./krest_svateho_vladimira_013.html","./krest_svateho_vladimira_014.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka01-0004622501.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./krest_svateho_vladimira_001.html","./krest_svateho_vladimira_005.html","./krest_svateho_vladimira_006.html","./krest_svateho_vladimira_007.html","./krest_svateho_vladimira_008.html","./krest_svateho_vladimira_009.html","./krest_svateho_vladimira_010.html","./krest_svateho_vladimira_011.html","./krest_svateho_vladimira_012.html","./krest_svateho_vladimira_013.html","./krest_svateho_vladimira_014.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka01-0004622501.jpg","./resources/upoutavka_eknihy.jpg","./style/style.min.css","./template-images/circles.png","./scripts/bundle.js"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-krest-svateho-vladimira-0cfc01f",
-  "revision": "0cfc01f",
+  "identifier": "borovsky-krest-svateho-vladimira-d9396d1",
+  "revision": "d9396d1",
   "readingOrder": [
     "krest_svateho_vladimira_001.html",
     "promo.html",
@@ -25,8 +25,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:05:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949152543
+    "date": "Mon Jun 13 2022 21:55:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157331356
   },
   "documents": [
     {
@@ -264,9 +264,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 82,
-      "chars": 554,
-      "ideas": 7,
+      "words": 121,
+      "chars": 776,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "krest_svateho_vladimira_014.html",
@@ -284,9 +284,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3817,
-      "chars": 21450,
-      "ideas": 1006
+      "words": 3856,
+      "chars": 21672,
+      "ideas": 1016
     },
     "chapters": {
       "words": 3728,
