@@ -1,6 +1,6 @@
 ---
 title: ZPĚV DESÁTÝ Konkurs
-contentType: prose
+contentType: poetry
 ---
 
 <section>

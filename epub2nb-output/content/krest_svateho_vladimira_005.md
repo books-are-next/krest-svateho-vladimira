@@ -1,6 +1,6 @@
 ---
 title: "ZPĚV PRVÝ Perun a\_Vladimír"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

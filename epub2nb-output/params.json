@@ -7,7 +7,9 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-01-31T18:06:52.537Z",
       "publisherShort": "mkp",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "contentType": "poetry",
+      "edition": "poezie"
     },
     "elements": {
       "title": "MLP_uroven2_basne",
@@ -368,6 +370,6 @@
       "user": "books-are-next",
       "repo": "krest-svateho-vladimira"
     },
-    "generatedAt": 1655271465665
+    "generatedAt": 1655364212513
   }
 }

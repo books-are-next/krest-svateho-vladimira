@@ -1,6 +1,6 @@
 ---
 title: ZPĚV DRUHÝ Hospodářství
-contentType: prose
+contentType: poetry
 ---
 
 <section>

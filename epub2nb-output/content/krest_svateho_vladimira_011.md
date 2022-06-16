@@ -1,6 +1,6 @@
 ---
 title: ZPĚV SEDMÝ Ministerská rada
-contentType: prose
+contentType: poetry
 ---
 
 <section>

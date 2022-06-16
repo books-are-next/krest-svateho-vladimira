@@ -1,6 +1,6 @@
 ---
 title: ZPĚV TŘETÍ Vojenský soud
-contentType: prose
+contentType: poetry
 ---
 
 <section>

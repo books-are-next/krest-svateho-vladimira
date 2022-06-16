@@ -1,6 +1,6 @@
 ---
 title: ZPĚV ŠESTÝ Audience
-contentType: prose
+contentType: poetry
 ---
 
 <section>

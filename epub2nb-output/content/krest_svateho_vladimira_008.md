@@ -1,6 +1,6 @@
 ---
 title: ZPĚV ČTVRTÝ Testament Perunův
-contentType: prose
+contentType: poetry
 ---
 
 <section>
