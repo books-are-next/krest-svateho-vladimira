@@ -1,6 +1,6 @@
 ---
 title: ZPĚV DEVÁTÝ Jezovitský marš
-contentType: prose
+contentType: poetry
 ---
 
 <section>

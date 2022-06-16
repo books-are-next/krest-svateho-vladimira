@@ -11,6 +11,8 @@ meta:
   modified: '2022-01-31T18:06:52.537Z'
   publisherShort: mkp
   languageCode: cs
+  contentType: poetry
+  edition: poezie
 readingOrder:
   - krest_svateho_vladimira_001.html
   - promo.html

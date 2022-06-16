@@ -1,6 +1,6 @@
 ---
 title: ZPĚV OSMÝ Kamarilla
-contentType: prose
+contentType: poetry
 ---
 
 <section>

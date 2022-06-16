@@ -1,6 +1,6 @@
 ---
 title: "ZPĚV PÁTÝ Bezbožnost v\_Rusích"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
