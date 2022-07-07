@@ -26,7 +26,7 @@ readingOrder:
   - krest_svateho_vladimira_012.html
   - krest_svateho_vladimira_013.html
   - krest_svateho_vladimira_014.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
