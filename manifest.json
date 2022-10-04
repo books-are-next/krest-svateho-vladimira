@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-krest-svateho-vladimira-549d99a",
-  "revision": "549d99a",
+  "identifier": "borovsky-krest-svateho-vladimira-98b769d",
+  "revision": "98b769d",
   "readingOrder": [
     "krest_svateho_vladimira_001.html",
     "promo.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:40:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664908835861
+    "date": "Tue Oct 04 2022 22:57:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664924279084
   },
   "documents": [
     {
