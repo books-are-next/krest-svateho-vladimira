@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-krest-svateho-vladimira-9fcb987",
-  "revision": "9fcb987",
+  "identifier": "borovsky-krest-svateho-vladimira-8c3156e",
+  "revision": "8c3156e",
   "readingOrder": [
     "krest_svateho_vladimira_001.html",
     "promo.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:05:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151510711
+    "date": "Mon Oct 10 2022 15:56:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417417478
   },
   "documents": [
     {
@@ -266,7 +266,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 132,
-      "chars": 883,
+      "chars": 884,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -286,7 +286,7 @@
   "totals": {
     "all": {
       "words": 3868,
-      "chars": 21785,
+      "chars": 21786,
       "ideas": 1014
     },
     "chapters": {
