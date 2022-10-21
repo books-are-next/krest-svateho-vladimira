@@ -9,7 +9,7 @@ Edice Poezie
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 3. elektronické vydání z 10. 10. 2022.
+V MKP 3. elektronické vydání z 21. 10. 2022.
 
 ***
 
